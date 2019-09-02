@@ -1,0 +1,11 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+body {
+  background-color: lightblue;
+  color: #333;
+  margin-left: 90vh;
+  margin-top: 40vh;
+  place-content: center;
+}
